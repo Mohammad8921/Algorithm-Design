@@ -1,0 +1,6 @@
+﻿  Source.cpp
+e:\projects\aad_s4\exercise_4\exercise_4\source.cpp(170): warning C4018: '<': signed/unsigned mismatch
+e:\projects\aad_s4\exercise_4\exercise_4\source.cpp(131): warning C4101: 'c': unreferenced local variable
+e:\projects\aad_s4\exercise_4\exercise_4\source.cpp(131): warning C4101: 'r': unreferenced local variable
+  exercise_4.vcxproj -> E:\Projects\AAD_S4\exercise_4\Debug\exercise_4.exe
+  exercise_4.vcxproj -> E:\Projects\AAD_S4\exercise_4\Debug\exercise_4.pdb (Partial PDB)

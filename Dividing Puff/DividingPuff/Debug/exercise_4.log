@@ -1,0 +1,4 @@
+﻿  Source.cpp
+e:\projects\assignments\aad_assignments\aad_s1\exercise_4\exercise_4\source.cpp(15): warning C4101: 'i': unreferenced local variable
+  exercise_4.vcxproj -> E:\Projects\Assignments\AAD_Assignments\AAD_S1\exercise_4\Debug\exercise_4.exe
+  exercise_4.vcxproj -> E:\Projects\Assignments\AAD_Assignments\AAD_S1\exercise_4\Debug\exercise_4.pdb (Partial PDB)

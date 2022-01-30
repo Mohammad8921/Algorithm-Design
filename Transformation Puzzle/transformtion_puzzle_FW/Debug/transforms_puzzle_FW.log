@@ -1,0 +1,8 @@
+﻿  Source.cpp
+e:\projects\c++ projects\transforms_puzzle_fw\transforms_puzzle_fw\source.cpp(12): warning C4018: '<': signed/unsigned mismatch
+e:\projects\c++ projects\transforms_puzzle_fw\transforms_puzzle_fw\source.cpp(16): warning C4018: '<': signed/unsigned mismatch
+e:\projects\c++ projects\transforms_puzzle_fw\transforms_puzzle_fw\source.cpp(24): warning C4018: '<': signed/unsigned mismatch
+e:\projects\c++ projects\transforms_puzzle_fw\transforms_puzzle_fw\source.cpp(39): warning C4018: '<': signed/unsigned mismatch
+e:\projects\c++ projects\transforms_puzzle_fw\transforms_puzzle_fw\source.cpp(47): warning C4018: '<': signed/unsigned mismatch
+  transforms_puzzle_FW.vcxproj -> E:\Projects\C++ projects\transforms_puzzle_FW\Debug\transforms_puzzle_FW.exe
+  transforms_puzzle_FW.vcxproj -> E:\Projects\C++ projects\transforms_puzzle_FW\Debug\transforms_puzzle_FW.pdb (Partial PDB)
